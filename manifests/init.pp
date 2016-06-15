@@ -1,1 +1,3 @@
-notify{"The environment is: $::environment": }
+class env_notify_module () {
+  notify{"The environment is: $::environment": }
+}
