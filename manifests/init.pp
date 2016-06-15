@@ -1,3 +1,3 @@
 class env_notify_module () {
-  notify{"The environment is: $::environment": }
+  notify{"This module is causing a horrendous bug in environment : $::environment": }
 }
