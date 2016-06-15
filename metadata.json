@@ -1,0 +1,13 @@
+{
+  "name": "env-notify-module",
+  "version": "0.0.1",
+  "author": "David Wilcox",
+  "summary": null,
+  "license": "Apache 2.0",
+  "source": "",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+  ]
+}
+
